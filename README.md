@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I’m Matlhatse Peecha
 
-<!--
-**mt-peecha/mt-peecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Metallurgical Engineer with a focus on data analytics, operation and energy systems.
 
-Here are some ideas to get you started:
+I use data to solve problems in:
+- Energy systems and sustainability  
+- Operations and performance  
+- User and business analytics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+### Renewable Energy Transition Analysis
+Global analysis of energy capacity and renewable adoption  
+Tools: SQL, Tableau  
+
+### Machine Downtime Analysis
+Identified failure patterns and inefficiencies in manufacturing systems  
+Tools: Excel, Power BI  
+
+### Bellabeat User Behaviour Analysis
+Analyzed user engagement and product usage patterns  
+Tools: SQL, Power BI  
+
+### Cyclistic Bike-Share Analysis
+Analyzed user behaviour to support marketing conversion strategies  
+Tools: SQL, Power BI  
+
+---
+
+## Skills
+
+- SQL (data cleaning, joins, aggregation)  
+- Power BI / Tableau (dashboards, storytelling)  
+- Excel (analysis, modelling)  
+- Data analysis workflow (clean → analyze → insight → recommendation)  
+
+---
+
+## Career Focus
+
+- Operation systems
+- Renewable energy systems  
+- Energy data analytics  
+- Project and infrastructure analysis  
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/matlhatse-peecha-a32229230
+- Email: matlhatse.peecha.mp@gmail.com
